@@ -10,14 +10,14 @@ https://colab.research.google.com/drive/1miprpZod7uvntxQTSaEubEapmMsgNxbi?usp=sh
 
 | **Гистоновая метка** | H2AZ | H3K4me1 | H3K4me2 | H3K4me3 | H3K9ac | H3K9me3 | H3K27ac | H3K27me3 | H3K36me3 | H3K79me2 | H4K20me1 | Контроль |
 | ------------- | ------------- |--------------------| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Название файла** | H2AZ.bam | H3k04me1.bam | H3k04me2.bam | H3k04me3.bam | H3k09ac.bam | H3k09me3.bam | H3k27ac.bam | H3k27me3.bam | H3k36me3.bam | H3k79me2.bam | H4k20me1.bam | Control.bam |
+| **Название файла** | H2AZ.bam | H3k04me1.bam | H3k04me2.bam | H3k04me3.bam | H3k09ac.bam | H3k09me3.bam | H3k27ac.bam | H3k27me3.bam | H3k36me3.bam | H3k79me2.bam | H4k20me1.bam | ControlStdAlnRep1.bam |
 
 
 ## Результаты
 
 ### Картинки из выдачи ChromHMM
 
-| ![image](https://user-images.githubusercontent.com/93095449/158064311-92d3c35b-90fd-475f-8af6-bebec9e831da.png) | ![image](https://user-images.githubusercontent.com/93095449/158064330-629144f6-b2f7-46c8-9234-effba7c28200.png) | ![image](https://user-images.githubusercontent.com/93095449/158064386-f92c5612-b951-4cfb-a39d-580e208a4dd9.png) | ![image](https://user-images.githubusercontent.com/93095449/158064398-3e006e04-099c-449f-b47e-b66f57bf0700.png) | ![image](https://user-images.githubusercontent.com/93095449/158064425-72dc9a22-6bcc-45d6-bf87-bd4785a1206d.png) |
+| ![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/results%2010/Helas3_10_RefSeqTES_neighborhood%20(1).png) | ![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/results%2010/Helas3_10_RefSeqTSS_neighborhood.png) | ![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/results%2010/Helas3_10_overlap.png) | ![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/results%2010/emissions_10.png) | ![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/results%2010/transitions_10.png) |
 | ------------- | ------------- |--------------------| -- | -- |
 
 ### Скриншоты из геномного браузера

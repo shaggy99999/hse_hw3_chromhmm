@@ -22,11 +22,11 @@ https://colab.research.google.com/drive/1miprpZod7uvntxQTSaEubEapmMsgNxbi?usp=sh
 
 ### Скриншоты из геномного браузера
 
-![image](https://user-images.githubusercontent.com/93095449/158063953-2923a847-c649-4a20-9c94-1fa60ee7ad98.png)
+![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/images/2022-03-24_16-10-09.png)
 
-![image](https://user-images.githubusercontent.com/93095449/158064187-1505fe47-9cea-4682-b391-0bd07b049e28.png)
+![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/images/2022-03-24_16-45-21.png)
 
-![image](https://user-images.githubusercontent.com/93095449/158064258-dfe01fe2-7b8d-4271-a4bd-2585fbdadbe2.png)
+![image](https://github.com/shaggy99999/hse_hw3_chromhmm/blob/main/images/2022-03-24_16-46-44.png)
 
 ### Выводы
 CPGisland чаще всего находиться в состоянии 1, в геномном браузере состояние 1 синего цвета-этот цвет ассоциируется с островками которые чаще всего распологаются в ядерной ламине
